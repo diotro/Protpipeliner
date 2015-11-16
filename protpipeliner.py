@@ -47,7 +47,7 @@
 #           :set ff=unix<return>
 #           :x<return>
 #
-#    Update on github
+#    
 #
 #   -i --input_file   <fasta file>      (required)    
 #   -t --threads  <int>     (required)         
